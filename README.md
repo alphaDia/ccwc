@@ -11,7 +11,7 @@ ccwc.py is a command line tool built to generate file metric like:
   
 It has multiple file support, which means it can take more than one file, if no file is given it will read **stdin**.  
 
-> try it out: python3 ccwc.py -h a help message will appear like the one below.
+> try it out: python3 ccwc.py -h, a help message will appear like the one below.
 
 usage: ccwc.py [options] FILE [FILE...]  
 
